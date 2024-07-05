@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/JB/UnrealProjects/WarehouseWrerckageJ/WarehouseWreckage/Content/SC_Edits/Maps/Minimal_Default.umap",
+				"C:/JB/UnrealProjects/WarehouseWrerckageJ/WarehouseWreckage/Content/Main.umap",
+				"C:/JB/UnrealProjects/WarehouseWrerckageJ/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/JB/UnrealProjects/WarehouseWrerckageJ/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_SM_Barrel01_Blueprint.uasset",
 				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
 				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/SC_Edits/Maps/Advanced_Lighting.umap",
@@ -13,8 +17,7 @@
 				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/SC_Edits/Maps/Advanced_Lighting_BuiltData.uasset",
 				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/SC_Edits/Maps/Minimal_Default_BuiltData.uasset",
 				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/SC_Edits/Maps/StarterMap_BuiltData.uasset",
-				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/BP_Projectile.uasset",
-				"C:/JB/UnrealProjects/WarehouseWrerckageJ/WarehouseWreckage/Content/SC_Edits/Maps/Minimal_Default.umap"
+				"D:/Unreal/WarehouseWrerckageJ/WarehouseWreckage/Content/BP_Projectile.uasset"
 			]
 		}
 	]
